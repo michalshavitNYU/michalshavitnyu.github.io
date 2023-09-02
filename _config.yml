@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Michal Shavit"
-  avatar           : "profile.png"
+  avatar           : "iceland.jpg" #"profile.png"
   bio              : "I am interested in Wave Turbulence"
   location         : "Courant, NYU"
   employer         :
