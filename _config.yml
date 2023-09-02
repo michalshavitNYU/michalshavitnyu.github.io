@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michal.Shavit@CIMS.NYU.edu"
+  name             : 
   avatar           : "iceland.jpg" #"profile.png"
   bio              : "I am interested in Wave Turbulence and fluid dynamics"
   location         : "Courant, NYU"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RliIE7UAAAAJ" #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "Michal.Shavit@CIMS.NYU.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
