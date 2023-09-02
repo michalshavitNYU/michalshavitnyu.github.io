@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello!"
+title: "Hello! שלום! Привет"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
