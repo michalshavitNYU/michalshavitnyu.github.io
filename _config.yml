@@ -96,20 +96,20 @@ author:
   flickr           :
  # facebook         :
   foursquare       :
-  github           : "michalshavitNYU" #"academicpages" 
+  github           : "michalshavitNYU" 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7252-7077"
+  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0002-7252-7077"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
- # twitter          : "replacethistwitterhandle"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
