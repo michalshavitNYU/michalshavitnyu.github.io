@@ -12,7 +12,9 @@ I am a Courant Instructor and Simons Research Fellow on Wave Turbulence at the C
 
 I completed my PhD in theoretical physics at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) under the wonderful guidance of [Prof. Gregory Falkovich](https://www.weizmann.ac.il/complex/falkovich/home).
 
-I am working on Wave Turbulence of (non-isotropic) systems dominated by three-wave interactions. 
+I am working on Wave Turbulence of (non-isotropic) systems dominated by three-wave interactions.
+
+I am married to [Daniel Halperin](https://scholar.google.com/citations?user=atuZWDsAAAAJ&hl=en&oi=sra) and mother of Nur and Farran.  
 
 
 *** This website is under construction ***
