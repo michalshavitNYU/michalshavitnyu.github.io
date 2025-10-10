@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michal Shavit"
 title_separator          : "-"
 name                     : &name "Michal Shavit"
-description              : &description "I study nonlinear dispersive equations. I am interested in wave turbulence and fluid dynamics"
+description              : &description "I study nonlinear dispersive equations. I am interested in wave turbulence and fluid dynamics."
 url                      : https://michalshavitnyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://michalshavitnyu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : "iceland.jpg" #"profile.png"
-  bio              : "I study nonlinear dispersive equations. I am interested in wave turbulence and fluid dynamics"
+  bio              : "I study nonlinear dispersive equations."
   location         : "Courant, NYU"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
