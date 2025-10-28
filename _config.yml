@@ -86,7 +86,7 @@ author:
   location         : "Courant, NYU"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=RliIE7UAAAAJ" #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=pJ1ze3wAAAAJ&hl=en&oi=ao" #"http://yourfullgooglescholarurl.com"
   email            : "ms14479@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
