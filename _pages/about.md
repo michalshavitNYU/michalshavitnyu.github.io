@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 ![hello](/images/IMG_9773.jpg){: .align-right width="400px"}
-I am a Courant Instructor and Simons postoctoral fellow on Wave Turbulence at the Courant Institute of Mathematical Sciences, New York University.
+I am a Courant Instructor and a Simons postoctoral fellow on Wave Turbulence at the Courant Institute of Mathematical Sciences, New York University.
 
 I study nonlinear dispersive equations with a focus on ocean waves: surface gravity waves at the free surface and internal inertia-gravity waves in the interior, with the aim of understanding, explaining, and predicting measurable oceanic phenomena.
+
+My current research is divided into four projects:
+1. Weak turbulence of internal inertia-gravity waves
+2. Looking for high-amplitude water waves with physics-informed neural networks
+3. The spatio-temporal spectrum of surface gravity waves 
+4. Well posedness of the Leith model around the turbulent solution
+
 
 
 I completed my PhD in theoretical physics at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) under the wonderful guidance of [Prof. Gregory Falkovich](https://www.weizmann.ac.il/complex/falkovich/home).
