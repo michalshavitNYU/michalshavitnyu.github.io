@@ -24,6 +24,7 @@ My current research is divided into four projects:
 My reserach is supported by [Schmidt Sciences](https://www.schmidtsciences.org/israeli-womens-postdoctoral-award/) and by a [Postdoctoral Career Development Award in Science](https://www.weizmann.ac.il/women-in-science/resources-awards-scholarships/womens-postdoctoral-career-development-award-science/application-info) from the Weizmann Institute. 
 
 I completed my PhD in theoretical physics at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) under [Prof. Gregory Falkovich](https://www.weizmann.ac.il/complex/falkovich/home), sponsored by the [Ariane de Rothschild Women’s Doctoral Program](https://www.edmondderothschildphilanthropy.org/womens-doctoral-program/). 
+I completed an [MSc in High Energy Physics](https://www.sciencedirect.com/science/article/pii/S0370269318306282) under Profs. [Yosef Nir](https://www.weizmann.ac.il/particle/nir/home) and Kfir Blum, and a BSc in Mathematics with the [Technion Excellence Program](https://excellence.technion.ac.il/alumni/).
 
 I am married to [Daniel Halperin](https://scholar.google.com/citations?user=atuZWDsAAAAJ&hl=en&oi=sra) and mother of Nur and Farran.  
 
