@@ -9,7 +9,7 @@ redirect_from:
 ---
 <!--![hello](/images/IMG_9773.jpg){: .align-right width="400px"} -->
 
-<img src="/images/IMG_9773.jpg" alt="hello" style="float: right; margin-left: 100px; margin-bottom: 10px; width: 400px; border-radius: 8px;">
+
 
 I am a Courant Instructor and a Simons postoctoral fellow on Wave Turbulence at the Courant Institute of Mathematical Sciences, New York University.
 
@@ -26,6 +26,8 @@ My current research is divided into four projects:
 I completed my PhD in theoretical physics at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) under the wonderful guidance of [Prof. Gregory Falkovich](https://www.weizmann.ac.il/complex/falkovich/home). % My PhD was supported by [] (https://www.edmondderothschildphilanthropy.org/womens-doctoral-program/). I completed a MSc in High Energy Physics under the guidance of Yosef Nir. I completed a BSc in mathematics with the Program ...
 
 I am married to [Daniel Halperin](https://scholar.google.com/citations?user=atuZWDsAAAAJ&hl=en&oi=sra) and mother of Nur and Farran.  
+
+<img src="/images/IMG_9773.jpg" alt="hello" style="float: right; margin-left: 100px; margin-bottom: 10px; width: 400px; border-radius: 8px;">
 
 
 *** This website is under construction ***
