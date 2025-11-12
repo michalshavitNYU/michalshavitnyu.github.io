@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![hello](/images/IMG_9773.jpg){: .align-right width="400px"}
+<!--![hello](/images/IMG_9773.jpg){: .align-right width="400px"} -->
+
+<img src="/images/IMG_9773.jpg" alt="hello" style="float: right; margin-left: 25px; margin-bottom: 10px; width: 400px; border-radius: 8px;">
+
 I am a Courant Instructor and a Simons postoctoral fellow on Wave Turbulence at the Courant Institute of Mathematical Sciences, New York University.
 
 I study nonlinear dispersive equations with a focus on ocean waves: surface gravity waves at the free surface and internal inertia-gravity waves in the interior, with the aim of understanding, explaining, and predicting measurable oceanic phenomena.
