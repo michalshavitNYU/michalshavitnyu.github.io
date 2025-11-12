@@ -23,7 +23,7 @@ My current research is divided into four projects:
 
 
 
-I completed my PhD in theoretical physics at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) under the wonderful guidance of [Prof. Gregory Falkovich](https://www.weizmann.ac.il/complex/falkovich/home). % My PhD was supported by [] (https://www.edmondderothschildphilanthropy.org/womens-doctoral-program/). I completed a MSc in High Energy Physics under the guidance of Yosef Nir. I completed a BSc in mathematics with the Program ...
+I completed my PhD in theoretical physics at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) under the guidance of [Prof. Gregory Falkovich](https://www.weizmann.ac.il/complex/falkovich/home). My PhD was sponsered by [Ariane de Rothschild Women’s Doctoral Program](https://www.edmondderothschildphilanthropy.org/womens-doctoral-program/). 
 
 I am married to [Daniel Halperin](https://scholar.google.com/citations?user=atuZWDsAAAAJ&hl=en&oi=sra) and mother of Nur and Farran.  
 
