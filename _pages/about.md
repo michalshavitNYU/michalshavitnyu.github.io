@@ -9,7 +9,7 @@ redirect_from:
 ---
 <!--![hello](/images/IMG_9773.jpg){: .align-right width="400px"} -->
 
-<img src="/images/IMG_9773.jpg" alt="hello" style="float: right; margin-left: 25px; margin-bottom: 10px; width: 400px; border-radius: 8px;">
+<img src="/images/IMG_9773.jpg" alt="hello" style="float: right; margin-left: 100px; margin-bottom: 10px; width: 400px; border-radius: 8px;">
 
 I am a Courant Instructor and a Simons postoctoral fellow on Wave Turbulence at the Courant Institute of Mathematical Sciences, New York University.
 
