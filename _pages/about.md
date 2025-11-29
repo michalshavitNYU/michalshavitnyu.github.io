@@ -28,7 +28,7 @@ My reserach is supported by [Schmidt Sciences](https://www.schmidtsciences.org/i
 I completed my PhD in theoretical physics at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) under [Prof. Gregory Falkovich](https://www.weizmann.ac.il/complex/falkovich/home), sponsored by the [Ariane de Rothschild Women’s Doctoral Program](https://www.edmondderothschildphilanthropy.org/womens-doctoral-program/). 
 I completed an MSc in High Energy Physics under Profs. [Yosef Nir](https://www.weizmann.ac.il/particle/nir/home) and Kfir Blum, and a BSc in Mathematics with the [Technion Excellence Program](https://excellence.technion.ac.il/alumni/).
 
-I am married to [Daniel Halperin](https://scholar.google.com/citations?user=atuZWDsAAAAJ&hl=en&oi=sra) and mother of Nur and Farran.  
+I am married to [Daniel Halperin](https://scholar.google.com/citations?user=atuZWDsAAAAJ&hl=en&oi=sra).
 
 <img src="/images/IMG_9773.jpg" alt="hello" style="float: right; margin-left: 100px; margin-bottom: 10px; width: 400px; border-radius: 8px;">
 
