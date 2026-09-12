@@ -16,8 +16,11 @@ I am a Courant Instructor and a Simons postdoctoral fellow in Wave Turbulence at
 I study nonlinear dispersive equations with a focus on ocean waves: surface gravity waves at the free surface and internal inertia-gravity waves in the interior, aiming to understand, explain, and predict measurable oceanic phenomena.
 
 My current research is divided into four projects:
-1. Weak turbulence of internal inertia-gravity waves
-2. Searching for high-amplitude water waves with physics-informed neural networks
+1. **Rigorously certified computation of nonlinear water waves**
+
+    With Yongji Wang and Tristan Buckmaster, I combine physics-informed neural computation with interval arithmetic to compute high-amplitude water-wave profiles and certify uniform equation residuals approaching machine precision. The project also develops formal proofs in Lean.
+
+2. Weak turbulence of internal inertia-gravity waves
 3. The spatio-temporal spectrum of surface gravity waves 
 4. Well posedness of the Leith model around the turbulent solution
 
