@@ -29,6 +29,10 @@ It is organized around two complementary programs:
 
 [Here](https://github.com/michalshavitNYU/michalshavitnyu.github.io/blob/2b6d945a74f73d2ecead2240aef702b83c65d2b9/Spatiotemporal_from_video.ipynb) is a minimal script (python) for converting a video into its spatio-temporal spectrum.
 
+**[A friendly reading of finite-time blow-up: Alpöge–Buckmaster (Boussinesq) and OpenAI (Navier–Stokes)](/files/blowup-mechanisms.pdf)**
+
+My exposition and reconstruction of the arguments behind these recent finite-time blow-up constructions. These notes may contain mistakes; comments and corrections are welcome.
+
 My reserach is supported by [Schmidt Sciences](https://www.schmidtsciences.org/israeli-womens-postdoctoral-award/) and by a [Postdoctoral Career Development Award in Science](https://www.weizmann.ac.il/women-in-science/resources-awards-scholarships/womens-postdoctoral-career-development-award-science/application-info) from the Weizmann Institute. 
 
 I completed my PhD in theoretical physics at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) under [Prof. Gregory Falkovich](https://www.weizmann.ac.il/complex/falkovich/home), sponsored by the [Ariane de Rothschild Women’s Doctoral Program](https://www.edmondderothschildphilanthropy.org/womens-doctoral-program/). 
