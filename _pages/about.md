@@ -13,16 +13,19 @@ redirect_from:
 
 I am a Courant Instructor and a Simons postdoctoral fellow in Wave Turbulence at the Courant Institute of Mathematical Sciences, New York University.
 
-I study nonlinear dispersive equations with a focus on ocean waves: surface gravity waves at the free surface and internal inertia-gravity waves in the interior, aiming to understand, explain, and predict measurable oceanic phenomena.
+My research connects computational mathematics, scientific machine learning, and mathematical analysis to understand turbulence and nonlinear waves, with a focus on surface and internal gravity waves.
 
-My current research is divided into four projects:
-1. **Rigorously certified computation of nonlinear water waves**
+It is organized around two complementary programs:
 
-    With Yongji Wang and Tristan Buckmaster, I combine physics-informed neural computation with interval arithmetic to compute high-amplitude water-wave profiles and certify uniform equation residuals approaching machine precision. The project also develops formal proofs in Lean.
+1. **Program I: AI-assisted discovery and rigorous numerics for nonlinear PDEs**
 
-2. Weak turbulence of internal inertia-gravity waves
-3. The spatio-temporal spectrum of surface gravity waves 
-4. Well posedness of the Leith model around the turbulent solution
+    1. Rigorously certified neural-network computation of nonlinear water waves at near-machine precision
+
+2. **Program II: From physical observations to mathematical theory**
+
+    1. Weak turbulence of 2D internal inertia–gravity waves
+    2. Space resonances in the spatio-temporal spectrum of water waves
+    3. Well-posedness of the Leith model around the turbulent solution
 
 [Here](https://github.com/michalshavitNYU/michalshavitnyu.github.io/blob/2b6d945a74f73d2ecead2240aef702b83c65d2b9/Spatiotemporal_from_video.ipynb) is a minimal script (python) for converting a video into its spatio-temporal spectrum.
 
