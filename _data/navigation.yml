@@ -18,6 +18,9 @@ main:
   - title: "Translations"
     url: /translations/
 
+  - title: "SovietLean"
+    url: "https://michalshavitnyu.github.io/soviet-science-lean/"
+
   - title: "CV"
     url: /cv/
     
