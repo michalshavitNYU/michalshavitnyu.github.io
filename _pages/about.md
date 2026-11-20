@@ -1,6 +1,10 @@
 ---
 permalink: /
 title: "Hello! שלום! Привет!"
+title_image: /images/hello-banner-1000.jpg
+title_image_srcset:
+  - /images/hello-banner-1000.jpg 1000w
+  - /images/hello-banner-2000.jpg 2000w
 excerpt: "About me"
 author_profile: true
 redirect_from: 

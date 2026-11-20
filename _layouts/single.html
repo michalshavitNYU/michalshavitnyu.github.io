@@ -26,7 +26,8 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
-          {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+          {% if page.title_image %}<h1 class="page__title" itemprop="headline"><img src="{{ base_path }}{{ page.title_image }}"{% if page.title_image_srcset %} srcset="{% for im in page.title_image_srcset %}{{ base_path }}{{ im }}{% unless forloop.last %}, {% endunless %}{% endfor %}" sizes="(max-width: 900px) 100vw, 800px"{% endif %} alt="{{ page.title | escape }}" style="display:block; width:100%; height:auto; border-radius:6px;"></h1>
+          {% elsif page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
