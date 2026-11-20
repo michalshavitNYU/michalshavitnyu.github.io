@@ -15,11 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Translations"
-    url: /translations/
-
   - title: "SovietLean"
-    url: "https://michalshavitnyu.github.io/soviet-science-lean/"
+    url: /translations/
 
   - title: "CV"
     url: /cv/
