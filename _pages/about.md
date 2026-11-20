@@ -13,7 +13,7 @@ redirect_from:
 
 I am a Courant Instructor and a Simons postdoctoral fellow in Wave Turbulence at the Courant Institute of Mathematical Sciences, New York University.
 
-My research connects computational mathematics, scientific machine learning, and mathematical analysis to understand turbulence and nonlinear waves, with a focus on surface and internal gravity waves.
+I study turbulence and nonlinear waves, with a particular focus on ocean waves: surface gravity waves at the free surface and internal inertia–gravity waves in the interior. I combine analysis, kinetic theory, scientific machine learning, numerical computation, rigorous computer-assisted proofs, and formal verification in Lean.
 
 It is organized around two complementary programs:
 
