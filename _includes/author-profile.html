@@ -120,4 +120,9 @@
 {% endif %}
     </ul>
   </div>
+  {% if page.url == "/" %}
+  <a class="author__banner" href="https://michalshavitnyu.github.io/soviet-science-lean/" style="display:block; margin-top:1em;">
+    <img src="{{ base_path }}/images/sovietlean-banner-1000.jpg" width="1000" height="333" alt="SovietLean" style="display:block; width:100%; height:auto; border-radius:4px;">
+  </a>
+  {% endif %}
 </div>
